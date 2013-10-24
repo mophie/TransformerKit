@@ -1,0 +1,19 @@
+# Mac OS X
+*.swp
+*.swo
+.DS_Store
+
+# Ruby
+*.rbo
+*.gem
+.rbenv-version
+.rbx/
+
+# CocoaPods
+Podfile.lock
+Pods
+
+# Xcode
+xcuserdata
+DerivedData
+*.xccheckout
